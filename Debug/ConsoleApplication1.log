@@ -1,0 +1,5 @@
+﻿  aes.cpp
+c:\users\christophe\source\repos\consoleapplication1\consoleapplication1\aes.cpp(120): warning C4101: 'sboxvalue' : variable locale non référencée
+c:\users\christophe\source\repos\consoleapplication1\consoleapplication1\aes.cpp(241): warning C4101: 'temp' : variable locale non référencée
+  main.cpp
+  ConsoleApplication1.vcxproj -> C:\Users\Christophe\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
